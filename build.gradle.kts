@@ -35,7 +35,7 @@ dependencies {
     api("org.jetbrains.exposed:exposed-core:$exposedVersion")
     api("org.jetbrains.exposed:exposed-dao:$exposedVersion")
     api("org.jetbrains.exposed:exposed-jdbc:$exposedVersion")
-    api("com.github.ben-manes.caffeine:caffeine:3.2.3")
+    api("com.github.ben-manes.caffeine:caffeine:3.2.4")
     api("redis.clients:jedis:7.4.1")
     api("com.zaxxer:HikariCP:7.0.2")
 }
